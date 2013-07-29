@@ -1,5 +1,9 @@
 require "spec_helper"
 
 describe Baktuza do
-  # TODO: write specs
+
+  pending "grows beyond initial spike" do
+    true.should == false
+  end
+
 end
