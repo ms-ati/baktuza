@@ -1,6 +1,6 @@
 $:.push File.expand_path("../lib", __FILE__)
 require "baktuza/version"
-require "baktuza/string_unindent"
+require "baktuza/util/string_unindent"
 
 Gem::Specification.new do |s|
   s.name        = "baktuza"

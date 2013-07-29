@@ -15,4 +15,4 @@ module Baktuza
 end
 
 # Enhance Kernel with method `#future(&block)`
-require 'baktuza/kernel_future'
+require 'baktuza/future/kernel_future'
